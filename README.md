@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sahadebangshu/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/debangshusaha98/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/debangshusaha98/LeetCode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/debangshusaha98/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sahadebangshu/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
